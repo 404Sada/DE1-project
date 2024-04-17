@@ -5,7 +5,7 @@ Member 2 (responsible for ...) <br>
 Member 3 (responsible for ...) <br>
 Member 4 (responsible for ...) <br>
 
-# Theoretical description and explanation
+## Theoretical description and explanation
 Enter a description of the problem and how to solve it.
 
 # Hardware description of demo application
