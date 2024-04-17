@@ -1,6 +1,6 @@
 # DE1-project
 # Team members
-Member 1 (responsible for ...)
+Member 1 (responsible for ...) <br>
 Member 2 (responsible for ...)
 Member 3 (responsible for ...)
 Member 4 (responsible for ...)
