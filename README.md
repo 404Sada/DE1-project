@@ -39,13 +39,7 @@ Write descriptive text and put simulation screenshots of your components.
 ## Instructions
 ![IMG_20240418_133337](https://github.com/404Sada/DE1-project/assets/165081418/ba82e8d2-199a-4d60-abba-9fb0b2f06111)
 
-<object width="425" height="350">
-  <param name="movie" value="[http://www.youtu.be/Bn0FmMMkb_M](https://www.youtube.com/watch?v=Bn0FmMMkb_M)" />
-  <param name="wmode" value="transparent" />
-  <embed src="[http://www.youtu.be/Bn0FmMMkb_M](https://www.youtube.com/watch?v=Bn0FmMMkb_M)"
-         type="application/x-shockwave-flash"
-         wmode="transparent" width="425" height="350" />
-</object>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=Bn0FmMMkb_M)
 
 Write an instruction manual for your application, including photos and a link to a short app video.
 
