@@ -13,7 +13,7 @@ Main computing unit
 ![71AqT8JnX8L _SL1200_](https://github.com/404Sada/DE1-project/assets/165081418/67521a6f-28e0-482c-bca0-f23695782674)
 
 ### Ultrasonic sensor HC-SR04 <br>
-Distance measuring unit - the "echo" HIGH level duration corresponds to time it takes sound to travel the path from the sensor to the obstacle <br>
+Distance measuring unit - the "echo" HIGH level duration corresponds to time it takes sound to travel the path from the sensor to the obstaclea
 and back.
 ![image](https://github.com/404Sada/DE1-project/assets/165081418/ecc7565a-74bc-4a62-b3e5-02c0126ec0f5)
 
