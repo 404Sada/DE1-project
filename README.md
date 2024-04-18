@@ -5,7 +5,9 @@ Member 2: Sadílek Petr <br>
 
 
 ## Theoretical description and explanation
-Enter a description of the problem and how to solve it. <br>
+Parking sensors are used to determine distance of a driven vehicle from an obstacle. It helps the driver to safely park the vehicle in a constraint spaces. The implementations vary depending on the manufacturer. Some just use beeping as a hint of approaching of an obstacle, other use graphical visualisation, the most modern use cameras to visualize space around the vehicle.
+
+The solution we use to measure distance is using an ultrasonic sensor HC-SR04, processing the signal and hinting the distance on Nexys A7 50T. <br>
 ### Board - Nexys A7 50T <br>
 Main computing unit
 ![71AqT8JnX8L _SL1200_](https://github.com/404Sada/DE1-project/assets/165081418/67521a6f-28e0-482c-bca0-f23695782674)
@@ -15,7 +17,6 @@ Distance measuring unit
 ### Arduino Uno <br>
 Module used to supply 5V voltage
 ![uno](https://github.com/404Sada/DE1-project/assets/165081418/145b6cf9-d443-4fd2-a091-32dee3a8dc93)
-
 
 
 
