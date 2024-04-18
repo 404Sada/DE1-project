@@ -1,12 +1,13 @@
 # DE1-project
 ## Team members
-Member 1 (responsible for ...) <br>
-Member 2 (responsible for ...) <br>
-Member 3 (responsible for ...) <br>
-Member 4 (responsible for ...) <br>
+Member 1: Piškula Petr <br>
+Member 2: Sadílek Petr <br>
+
 
 ## Theoretical description and explanation
 Enter a description of the problem and how to solve it.
+https://cdn11.bigcommerce.com/s-7gavg/images/stencil/1280x1280/products/629/5236/NexysA7-top-600__89503.1670980013.jpg?c=2
+
 
 ## Hardware description of demo application
 ![image](https://github.com/404Sada/DE1-project/assets/165081418/bc8e02c2-bf69-4fb2-ab2c-92fd278ee579)
