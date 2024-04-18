@@ -13,7 +13,7 @@ Main computing unit
 ![71AqT8JnX8L _SL1200_](https://github.com/404Sada/DE1-project/assets/165081418/67521a6f-28e0-482c-bca0-f23695782674)
 
 ### Ultrasonic sensor HC-SR04 <br>
-Distance measuring unit
+Distance measuring unit - the "echo" HIGH level duration corresponds to time it takes sound to travel the path from the sensor to the obstacle and back.
 ![image](https://github.com/404Sada/DE1-project/assets/165081418/ecc7565a-74bc-4a62-b3e5-02c0126ec0f5)
 
 ### Arduino Uno <br>
@@ -25,7 +25,8 @@ Module used to supply 5V voltage
 ## Hardware description of demo application
 ![image](https://github.com/404Sada/DE1-project/assets/165081418/bc8e02c2-bf69-4fb2-ab2c-92fd278ee579)
 
-Insert descriptive text and schematic(s) of your implementation.
+The principle of the desing is to count the duration of echo signal from the ultrasonic sensor. 
+
 
 ## Software description
 Put flowchats/state diagrams of your algorithm(s) and direct links to source/testbench files in src and sim folders.
