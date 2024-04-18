@@ -5,7 +5,7 @@ Member 2: Sadílek Petr <br>
 
 
 ## Theoretical description and explanation
-Enter a description of the problem and how to solve it.
+Enter a description of the problem and how to solve it. <br>
 ![Alt text]https://cdn11.bigcommerce.com/s-7gavg/images/stencil/1280x1280/products/629/5236/NexysA7-top-600__89503.1670980013.jpg?c=2
 
 
