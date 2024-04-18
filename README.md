@@ -32,6 +32,8 @@ The principle of the desing is to count the duration of echo signal from the ult
 ## Software description
 Put flowchats/state diagrams of your algorithm(s) and direct links to source/testbench files in src and sim folders.
 
+![IMG_20240418_143652](https://github.com/404Sada/DE1-project/assets/165081418/44da01de-93dd-475b-be8c-467f9b368a25)
+
 https://www.edaplayground.com/x/mxDD
 
 ## Component(s) simulation
