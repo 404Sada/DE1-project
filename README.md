@@ -9,6 +9,7 @@ Member 4 (responsible for ...) <br>
 Enter a description of the problem and how to solve it.
 
 ## Hardware description of demo application
+[schematic.pdf](https://github.com/404Sada/DE1-project/files/15023866/schematic.pdf)
 Insert descriptive text and schematic(s) of your implementation.
 
 ## Software description
