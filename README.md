@@ -27,6 +27,8 @@ Module used to supply 5V voltage
 ![image](https://github.com/404Sada/DE1-project/assets/165081418/bc8e02c2-bf69-4fb2-ab2c-92fd278ee579)
 
 The principle of the desing is to count the duration of echo signal from the ultrasonic sensor. The Clock_en component sends pulse every 58 μs, which corresponds to 1 cm distance unit. All we have to do is to count the number of Clock_ en pulses during echo pulse HIGH. What we end up with is distance in cm. The counting is done in Fsm component. 
+Fsm is shown in a diagram below. At first in the INITIAL state, values are set to default. In the TRIGGER, trig pulse is sent to a ultrasonic sensor. In the WAIT_PULSE state, we wait for the echo pulse to set the state to COUNTING. If it doesn't arrive, in a Clock_init period (~ 200 ms), Fsm is reset to INITIAL. In the COUNTING state we set the counting state to HIGH, which makes the simple_counter count the number of Clock_en pulses. The Fsm then sends "done" pulse and waits for the Clock_init, so the measurement has a constant period not influenced by the measured distance. 
+The value in the counter is saved into the memory with "done" pulse, and the value in the memory is used to visualize proximity on the LEDs and the number is shown on the 7seg display using bin2bcd component, multiple bin2seg components and a multiplexer.
 
 ## Software description
 ![IMG_20240418_143652](https://github.com/404Sada/DE1-project/assets/165081418/44da01de-93dd-475b-be8c-467f9b368a25)
