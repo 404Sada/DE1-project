@@ -11,9 +11,11 @@ The solution we use to measure distance is using an ultrasonic sensor HC-SR04, p
 ### Board - Nexys A7 50T <br>
 Main computing unit
 ![71AqT8JnX8L _SL1200_](https://github.com/404Sada/DE1-project/assets/165081418/67521a6f-28e0-482c-bca0-f23695782674)
+
 ### Ultrasonic sensor HC-SR04 <br>
 Distance measuring unit
 ![image](https://github.com/404Sada/DE1-project/assets/165081418/ecc7565a-74bc-4a62-b3e5-02c0126ec0f5)
+
 ### Arduino Uno <br>
 Module used to supply 5V voltage
 ![uno](https://github.com/404Sada/DE1-project/assets/165081418/145b6cf9-d443-4fd2-a091-32dee3a8dc93)
