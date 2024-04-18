@@ -7,6 +7,7 @@ Member 2: Sadílek Petr <br>
 ## Theoretical description and explanation
 Enter a description of the problem and how to solve it. <br>
 ![71AqT8JnX8L _SL1200_](https://github.com/404Sada/DE1-project/assets/165081418/67521a6f-28e0-482c-bca0-f23695782674)
+![image](https://github.com/404Sada/DE1-project/assets/165081418/ecc7565a-74bc-4a62-b3e5-02c0126ec0f5)
 
 
 
