@@ -26,8 +26,7 @@ Module used to supply 5V voltage
 ## Hardware description of demo application
 ![image](https://github.com/404Sada/DE1-project/assets/165081418/bc8e02c2-bf69-4fb2-ab2c-92fd278ee579)
 
-The principle of the desing is to count the duration of echo signal from the ultrasonic sensor. 
-
+The principle of the desing is to count the duration of echo signal from the ultrasonic sensor. The Clock_en component sends pulse every 58 μs, which corresponds to 1 cm distance unit. All we have to do is to count the number of Clock_ en pulses during echo pulse HIGH. What we end up with is distance in cm. The counting is done in Fsm component. 
 
 ## Software description
 ![IMG_20240418_143652](https://github.com/404Sada/DE1-project/assets/165081418/44da01de-93dd-475b-be8c-467f9b368a25)
