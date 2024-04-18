@@ -33,11 +33,11 @@ Put flowchats/state diagrams of your algorithm(s) and direct links to source/tes
 https://www.edaplayground.com/x/mxDD
 
 ## Component(s) simulation
-![IMG_20240418_133337](https://github.com/404Sada/DE1-project/assets/165081418/ba82e8d2-199a-4d60-abba-9fb0b2f06111)
+
 Write descriptive text and put simulation screenshots of your components.
 
 ## Instructions
-
+![IMG_20240418_133337](https://github.com/404Sada/DE1-project/assets/165081418/ba82e8d2-199a-4d60-abba-9fb0b2f06111)
 Write an instruction manual for your application, including photos and a link to a short app video.
 
 ## References
