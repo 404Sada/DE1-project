@@ -39,9 +39,9 @@ Write descriptive text and put simulation screenshots of your components.
 ## Instructions
 ![IMG_20240418_133337](https://github.com/404Sada/DE1-project/assets/165081418/ba82e8d2-199a-4d60-abba-9fb0b2f06111)
 <object width="425" height="350">
-  <param name="movie" value="http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg" />
+  <param name="movie" value="http://www.youtu.be/Bn0FmMMkb_M" />
   <param name="wmode" value="transparent" />
-  <embed src="http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg"
+  <embed src="http://www.youtu.be/Bn0FmMMkb_M"
          type="application/x-shockwave-flash"
          wmode="transparent" width="425" height="350" />
 </object>
