@@ -16,6 +16,8 @@ Insert descriptive text and schematic(s) of your implementation.
 ## Software description
 Put flowchats/state diagrams of your algorithm(s) and direct links to source/testbench files in src and sim folders.
 
+https://www.edaplayground.com/x/mxDD
+
 ## Component(s) simulation
 Write descriptive text and put simulation screenshots of your components.
 
