@@ -39,7 +39,7 @@ Write descriptive text and put simulation screenshots of your components.
 ## Instructions
 ![IMG_20240418_133337](https://github.com/404Sada/DE1-project/assets/165081418/ba82e8d2-199a-4d60-abba-9fb0b2f06111)
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=Bn0FmMMkb_M)
+[![Demonstration vide](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=Bn0FmMMkb_M)
 
 Write an instruction manual for your application, including photos and a link to a short app video.
 
