@@ -47,5 +47,6 @@ Write descriptive text and put simulation screenshots of your components.
 All that is needed to run the desing is just to properly plug everything in. The implementation is plug-n-play, with only interaction possible being the BTNC reset button for a case of failure.
 
 ## References
-Put here all references to sources and tools you used.
-...
+https://github.com/tomas-fryza/vhdl-course
+https://allaboutfpga.com/vhdl-code-for-binary-to-bcd-converter/
+https://cdn.sparkfun.com/datasheets/Sensors/Proximity/HCSR04.pdf
