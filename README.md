@@ -37,7 +37,6 @@ https://www.edaplayground.com/x/mxDD
 
 ## Component(s) simulation
 ![956de5e2-2c37-4b19-bc63-632219035abd](https://github.com/404Sada/DE1-project/assets/165081418/7cf86ef0-52e0-4959-9e61-1f5229499aaa)
-Write descriptive text and put simulation screenshots of your components.
 
 ## Instructions
 ![IMG_20240418_133337](https://github.com/404Sada/DE1-project/assets/165081418/ba82e8d2-199a-4d60-abba-9fb0b2f06111)
