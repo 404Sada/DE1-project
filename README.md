@@ -36,7 +36,7 @@ The value in the counter is saved into the memory with "done" pulse, and the val
 https://www.edaplayground.com/x/mxDD
 
 ## Component(s) simulation
-![image](https://www.messenger.com/956de5e2-2c37-4b19-bc63-632219035abd)
+![956de5e2-2c37-4b19-bc63-632219035abd](https://github.com/404Sada/DE1-project/assets/165081418/7cf86ef0-52e0-4959-9e61-1f5229499aaa)
 Write descriptive text and put simulation screenshots of your components.
 
 ## Instructions
